@@ -46,6 +46,7 @@ I am not responsible if you or someone loses Bitcoins, or if you get hacked dued
 This is a project in alpha. As an alpha project, you will experience bugs, lack of feactures, and many other things...
 USE IT AT YOUR OWN RISK.
 
+[![Gitter](https://badges.gitter.im/ZenJB/TXZone.svg)](https://gitter.im/ZenJB/TXZone?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 REQUIREMENTS
 - Apache
